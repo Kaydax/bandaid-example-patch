@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <AssemblyName>sbox-example-patch</AssemblyName>
+    <AssemblyName>bandaid-example-patch</AssemblyName>
     <RootNamespace>ExamplePatch</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>11</LangVersion>
